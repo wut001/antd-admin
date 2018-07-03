@@ -74,14 +74,14 @@ let database = [
     icon: 'search',
     route: '/UIElement/search',
   },
-  // {
-  //   id: '45',
-  //   bpid: '4',
-  //   mpid: '4',
-  //   name: '56pxor',
-  //   icon: 'edit',
-  //   route: '/UIElement/editor',
-  // },
+  {
+    id: '45',
+    bpid: '4',
+    mpid: '4',
+    name: '56pxor',
+    icon: 'edit',
+    route: '/UIElement/editor',
+  },
   // {
   //   id: '46',
   //   bpid: '4',
